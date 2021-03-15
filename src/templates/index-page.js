@@ -7,7 +7,7 @@ import { RiFacebookBoxFill, RiTwitterFill, RiLinkedinBoxFill, RiYoutubeFill, RiI
 import { FaWordpress, FaVk} from "react-icons/fa";
 
 import Layout from "../components/layout"
-// import BlogListHome from "../components/blog-list-home"
+import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
