@@ -8,4 +8,4 @@ cta:
   ctaText: Request Quote
   ctaLink: /quote
 ---
-Get your free shipping quote today!
+Get your shipping quote today!

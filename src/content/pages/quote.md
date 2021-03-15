@@ -1,6 +1,6 @@
 ---
 template: quote-page
 slug: /quote
-title: Request Quote
+title: Shipping Quote
 ---
-Request a Quote using this form.
+Complete form to recieve your vehicle shipping quote. 

@@ -13,7 +13,7 @@ const PostMaker = ({ data }) => (
     </div>
     <Link 
       className="button" 
-      to="/blog"
+      to="/articles"
       sx={{
         variant: 'links.button'
       }}
