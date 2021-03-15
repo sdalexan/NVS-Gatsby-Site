@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "title": "NVS",
+    "titleTemplate": "%s",
+    "description": "Site to request vehicle shipping quotes",
+    "siteUrl": "https://nationalvehicleshipping.com",
+    "image": "/assets/stackrole.png",
+    "iconimage": "/assets/stackrole.png",
+    "twitterUsername": "@stackrole"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
