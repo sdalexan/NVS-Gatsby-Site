@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p> National Vehicle Shipping <Link to="/">NationalVehicleShipping.com</Link></p>
+      <p> Nationwide Vehicle Shipping <Link to="/">NationwideVehicleShipping.com</Link></p>
     </div>
   </footer>
 )
