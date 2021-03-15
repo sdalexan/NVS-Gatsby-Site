@@ -117,7 +117,7 @@ class BlogIndex extends React.Component {
           title={"Aritcles — Page " + currentPage + " of " + numPages}
           description={"Stackrole base blog page " + currentPage + " of " + numPages }
         />
-        <h1>Aricles</h1>
+        <h1>Articles</h1>
         <div className="grids col-1 sm-2 lg-3">
           {posts}
         </div>
