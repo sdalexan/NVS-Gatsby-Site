@@ -67,7 +67,7 @@ const quote = ({data}) => {
             <button className="button"            
             sx={{
               variant: 'links.button'
-            }} type="submit">Send Message <span className="icon -right"><RiSendPlane2Line/></span></button>
+            }} type="submit">Request Quote <span className="icon -right"><RiSendPlane2Line/></span></button>
           </p>
         </form>
       </div>
