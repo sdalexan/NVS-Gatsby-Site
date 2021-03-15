@@ -33,6 +33,7 @@
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-sass": "^2.3.1",
     "gatsby-plugin-sharp": "^2.6.3",
+    "gatsby-plugin-sitemap": "^3.0.0",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-remark-images": "^3.3.3",
     "gatsby-remark-prismjs": "^3.5.1",
